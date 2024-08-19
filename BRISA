@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para Mi Novia</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            text-align: center;
+        }
+        h1 {
+            color: #ff69b4; /* Color rosa */
+        }
+    </style>
+</head>
+<body>
+    <h1>Te Amo, [Nombre de tu novia]</h1>
+    <p>Esta página es un homenaje a nuestro amor.</p>
+    <img src="ruta/a/tu/imagen.jpg" alt="Nuestra foto" width="300">
+    <h2>Momentos Especiales</h2>
+    <p>[Escribe aquí sobre momentos importantes]</p>
+</body>
+</html>
